@@ -8,3 +8,4 @@
 4. [JavaScript类型转换的迷糊事儿](https://github.com/Ge-yuan-jun/fe-blog/issues/4)
 5. [探究underscore源码（一）](https://github.com/Ge-yuan-jun/fe-blog/issues/5)
 6. [探究underscore源码（二）](https://github.com/Ge-yuan-jun/fe-blog/issues/6)
+7. [简单的分页算法](https://github.com/Ge-yuan-jun/fe-blog/issues/7)
