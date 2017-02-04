@@ -9,3 +9,4 @@
 5. [探究underscore源码（一）](https://github.com/Ge-yuan-jun/fe-blog/issues/5)
 6. [探究underscore源码（二）](https://github.com/Ge-yuan-jun/fe-blog/issues/6)
 7. [简单的分页算法](https://github.com/Ge-yuan-jun/fe-blog/issues/7)
+8. [2016-JavaScript之星](https://github.com/Ge-yuan-jun/fe-blog/issues/8)
