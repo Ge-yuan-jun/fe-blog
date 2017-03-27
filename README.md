@@ -11,3 +11,4 @@
 7. [简单的分页算法](https://github.com/Ge-yuan-jun/fe-blog/issues/7)
 8. [2016-JavaScript之星](https://github.com/Ge-yuan-jun/fe-blog/issues/8)
 9. [JavaScript中作用域相关的那些点](https://github.com/Ge-yuan-jun/fe-blog/issues/9)
+10. [成为一名函数式码农系列之五](https://github.com/Ge-yuan-jun/fe-blog/issues/10)
